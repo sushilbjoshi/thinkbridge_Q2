@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18530" started-at="2022-03-03T11:48:52Z" finished-at="2022-03-03T11:49:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18530" started-at="2022-03-03T11:48:52Z" finished-at="2022-03-03T11:49:10Z">
+      <class name="Test.LandigPageTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Test.LandigPageTest@1bce4f0a]" name="launchBrowser" is-config="true" duration-ms="3117" started-at="2022-03-03T11:48:49Z" finished-at="2022-03-03T11:48:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="dropdownTest()[pri:1, instance:Test.LandigPageTest@1bce4f0a]" name="dropdownTest" duration-ms="10617" started-at="2022-03-03T11:48:52Z" finished-at="2022-03-03T11:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTest -->
+        <test-method status="PASS" signature="emailTest()[pri:2, instance:Test.LandigPageTest@1bce4f0a]" name="emailTest" duration-ms="7892" started-at="2022-03-03T11:49:03Z" finished-at="2022-03-03T11:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.LandigPageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="110" started-at="2022-03-03T11:49:10Z" finished-at="2022-03-03T11:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.LandigPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
